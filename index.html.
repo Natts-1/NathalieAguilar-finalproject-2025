@@ -7,22 +7,22 @@
 </head>
 <body>
 <h1>Title</h1>
-<div id=""="">
+<div id="yellow"="yellow">
   <img src="" alt="">
-  <h1 class="">the name of fruit #1</h1>
-  <p= class=""> the info of fruit #1</p>
+  <h1 class="fruit">the name of fruit #1</h1>
+  <p= class="info"> the info of fruit #1</p>
   <a href="https://www.example.com">crediting the source</a>
 </div>
-<div id=""="">
+<div id="rainbow"="rainbow">
   <img src="" alt="">
-  <h1 class="">the name of fruit #2</h1>
-  <p class=""> the info of fruit #2</p>
+  <h1 class="fruit">the name of fruit #2</h1>
+  <p class="info"> the info of fruit #2</p>
   <a href="https://www.example.com">crediting the source</a>
 </div>
-<div id=""="">
+<div id="red"="red">
   <img src="" alt="">
-  <h1 class="">the name of fruit #3</h1>
-  <p class=""> the info of fruit #3</p>
+  <h1 class="fruit">the name of fruit #3</h1>
+  <p class="info"> the info of fruit #3</p>
   <a href="https://www.example.com">crediting the source</a>
 </div>
 
