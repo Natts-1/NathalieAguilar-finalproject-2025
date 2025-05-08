@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Title</h1>
+<h1 id="center">Title</h1>
 <div id="yellow"="yellow">
   <img src="" alt="">
   <h1 class="fruit">the name of fruit #1</h1>
