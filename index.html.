@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Final Project</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Title</h1>
+<div id=""="">
+  <img src="" alt="">
+  <h1 class="">the name of fruit #1</h1>
+  <p= class=""> the info of fruit #1</p>
+  <a href="https://www.example.com">crediting the source</a>
+</div>
+<div id=""="">
+  <img src="" alt="">
+  <h1 class="">the name of fruit #2</h1>
+  <p class=""> the info of fruit #2</p>
+  <a href="https://www.example.com">crediting the source</a>
+</div>
+<div id=""="">
+  <img src="" alt="">
+  <h1 class="">the name of fruit #3</h1>
+  <p class=""> the info of fruit #3</p>
+  <a href="https://www.example.com">crediting the source</a>
+</div>
+
+</body>
+</html>
