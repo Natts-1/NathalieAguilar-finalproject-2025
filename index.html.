@@ -6,14 +6,20 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1 id="center">Title</h1>
-<div id="yellow"="yellow">
-  <img src="" alt="">
-  <h1 class="fruit">the name of fruit #1</h1>
-  <p= class="info"> the info of fruit #1</p>
-  <a href="https://www.example.com">crediting the source</a>
+<h1 id="center">Fruits</h1>
+<div id="yellow">
+  <h1 class="mango">Mangoes</h1>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsuLjjru82KCTlaFeZ5stYOBUGB_sKlXAww&s" width="150" height="150">
+  <p class="info">Fun Facts:</p>
+  <ul>
+    <li>They came from Asia</li>
+    <li>They are good for pregnancy</li>
+    <li>Helps staying away from diabetes</li>
+    <li>Keeps your immune stystem stronger</li>
+  </ul>
+  <a href="https://www.healthline.com/nutrition/mango">Mango: Nutrition, Health Benefits, and How to Eat It</a>
 </div>
-<div id="rainbow"="rainbow">
+<div id="rainbow">
   <img src="" alt="">
   <h1 class="fruit">the name of fruit #2</h1>
   <p class="info"> the info of fruit #2</p>
