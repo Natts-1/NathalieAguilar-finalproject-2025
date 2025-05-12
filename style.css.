@@ -1,8 +1,1 @@
-.center {text-align: center;}
-#yellow {
-  width: 150px;
-  padding: 100px;
-  border: 2px dashed black;
-  margin: 50px;
-  background-color: red;
-}
+
