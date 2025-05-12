@@ -12,3 +12,10 @@ text-align: center;
   margin: 30px;
   background-color: red;
 }
+#mango {
+color: yellow;
+font-weight: bold;
+}
+.info {
+
+}
