@@ -38,3 +38,11 @@ margin-left: 10px;
 background-color: purple;
 border-radius: 20px;  
 }
+#berries {
+color: black;
+font-weight: bold;
+text-align: center;
+}
+#mix:hover {
+background-color: white;
+}
