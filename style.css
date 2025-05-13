@@ -11,6 +11,7 @@ text-align: center;
   border: 2px solid black;
   margin: 30px;
   background-color: red;
+  border-radius: 20px;
 }
 #mango {
 color: yellow;
