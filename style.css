@@ -47,3 +47,25 @@ text-align: center;
 #mix:hover {
 background-color: white;
 }
+#red {
+width: 200px;
+padding: 25px;
+border: 2px solid black;
+margin: 20px;
+margin-left: 100px;
+margin=top: 50px;
+background-color: blue;
+border-radius: 20px;  
+}
+.Pomegranate {
+color: black;
+font-weight: bold;
+text-align: center;
+}
+#red:hover {
+background-color: red;
+}
+
+
+
+
