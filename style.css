@@ -64,7 +64,7 @@ background-color: red;
 }
 .flex {
   display: flex;
-  gap: 50px;
+  gap: 100px;
 }
 
 
