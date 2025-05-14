@@ -4,7 +4,7 @@ body {
 }
 #center {
 text-align: center;
-color: red;
+color: white;
 }
 #yellow {
   width: 200px;
@@ -13,7 +13,6 @@ color: red;
   margin: 30px;
   background-color: red;
   border-radius: 20px;
-  display: inline-block
 }
 #mango {
 color: yellow;
@@ -38,7 +37,6 @@ border: 2px solid black;
 margin: 20px;
 background-color: purple;
 border-radius: 20px; 
-display: inline-block
 }
 #berries {
 color: black;
@@ -55,7 +53,6 @@ border: 2px solid black;
 margin: 20px;
 background-color: blue;
 border-radius: 20px;  
-display: inline-block
 }
 .Pomegranate {
 color: black;
