@@ -64,7 +64,10 @@ text-align: center;
 #red:hover {
 background-color: red;
 }
-
+.flex {
+  display: flex;
+  gap: 20px;
+}
 
 
 
