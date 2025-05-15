@@ -7,8 +7,8 @@ text-align: center;
 color: #E88DAC;
 }
 #yellow {
-  width: 200px;
-  padding: 25px;
+  width: 250px;
+  padding: 200px;
   border: 2px solid black;
   margin: 30px;
   background-color: red;
@@ -64,7 +64,7 @@ background-color: red;
 }
 .flex {
   display: flex;
-  gap: 700px;
+  gap: 100px;
 }
 
 
