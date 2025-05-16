@@ -1,5 +1,4 @@
 body {
-font-family: "Gill Sans", sans-serif;;
 background-color: rgb(255, 255, 128, 0.5);
 }
 #center {
@@ -7,39 +6,43 @@ text-align: center;
 color: #E88DAC;
 }
 #yellow {
-  width: 20px;
   padding: 25px;
   border: 2px solid black;
   margin: 30px;
   background-color: red;
   border-radius: 20px;
+  color: yellow;
 }
 #mango {
-color: yellow;
 font-weight: bold;
+font-size: 25px;
 text-align: center;
 }
 .info {
 font-weight: bold;
+font-size: 20px;
+}
+.font {
+  font-family: cursive;
+  font-size: 17px;
 }
 #yellow:hover {
 background-color: pink;
 }
-img {
-width: 100%;  
+img { 
 border-radius: 3px;
 box-shadow: 10px 5px 5px yellow;
+margin: auto;
 }
 #mix {
-width: 200px;
 padding: 25px;
 border: 2px solid black;
-margin: 20px;
+margin: 30px;
 background-color: purple;
 border-radius: 20px; 
+color: blue;
 }
 #berries {
-color: blue;
 font-weight: bold;
 text-align: center;
 }
@@ -47,24 +50,23 @@ text-align: center;
 background-color: white;
 }
 #red {
-width: 200px;
 padding: 25px;
 border: 2px solid black;
 margin: 20px;
 background-color: blue;
 border-radius: 20px;  
+color: red;
 }
 .Pomegranate {
-color: #ffff00;
 font-weight: bold;
 text-align: center;
 }
 #red:hover {
-background-color: red;
+background-color: black;
 }
 .flex {
-  display: flex;
-  gap: 100px;
+  display: inline;
+  gap: 10px;
 }
 
 
