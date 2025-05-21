@@ -13,6 +13,7 @@ color: #E88DAC;
   background-color: red;
   border-radius: 20px;
   color: yellow;
+  margin-left: 450px;
 }
 #mango {
 font-weight: bold;
@@ -43,6 +44,7 @@ margin: 30px;
 background-color: purple;
 border-radius: 20px; 
 color: blue;
+margin-left: 450px;
 }
 #berries {
 font-weight: bold;
@@ -59,6 +61,7 @@ margin: 20px;
 background-color: blue;
 border-radius: 20px;  
 color: red;
+margin-left: 450px;
 }
 .Pomegranate {
 font-weight: bold;
